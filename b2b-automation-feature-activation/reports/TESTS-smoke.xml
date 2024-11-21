@@ -1,0 +1,10 @@
+<testsuite name="smoke.smokeTest" tests="1" errors="0" failures="0" skipped="0" time="2.204229" timestamp="2021-05-05T00:38:37.854038" hostname="S145-R7"><testcase classname="smoke.smokeTest" name="Smoke" status="passed" time="2.204229"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Smoke
+    Given that "Lucas" as an "ADM" user is in the login screen ... passed in 2.204s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>

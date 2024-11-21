@@ -1,0 +1,9 @@
+Appium-Python-Client
+behave
+browserstack-local
+ipdb
+selenium
+page_objects
+paver
+psutil
+requests
