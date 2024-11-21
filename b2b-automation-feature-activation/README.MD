@@ -1,6 +1,6 @@
 # Feature Activation E2E Test Project
 
-This project have the propose of doing e2e tests in bees aplications Android or iOS
+This project have the propose of doing e2e tests in B aplications Android or iOS
 
 <br>
 
